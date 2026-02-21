@@ -45,8 +45,9 @@ The dataset contains information about:
 This project demonstrates how data analysis can transform raw data into meaningful insights that support business decisions.
 
 
-## 🚀 Future Improvements
+## Future Improvements
 - Build an interactive dashboard using Power BI  
 - Perform deeper analysis using more advanced techniques  
+
 
 
